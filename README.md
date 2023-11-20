@@ -1,6 +1,7 @@
-# coaf94d5b9d70e4e5b5226360
+# Scrimba interactions
+The Scrimba workshop exposes one to JavaScript and Netlify project deployment at length.
 
-Quick start:
+Configuring npm:
 
 ```
 $ npm install
